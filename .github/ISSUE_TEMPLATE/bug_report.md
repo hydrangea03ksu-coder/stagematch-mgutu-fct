@@ -1,20 +1,20 @@
 ---
-name: "🐛 Сообщить об ошибке"
-description: "Опишите найденную проблему в проекте"
+name: "Bug Report"
+description: "Report a bug or issue in the project"
 title: "[BUG] "
 labels: ["bug"]
 assignees: []
 ---
 
-## Описание проблемы
+## Description
 
-## Шаги для воспроизведения
+## Steps to reproduce
 1.
 2.
 3.
 
-## Ожидаемое поведение
+## Expected behavior
 
-## Фактическое поведение
+## Actual behavior
 
-## Дополнительная информация
+## Additional context
